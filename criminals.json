@@ -1,23 +1,4 @@
 {
-  "criminals": [
-    {
-      "nama": "aceng",
-      "foto": "https://raw.githubusercontent.com/ikanfugu-chan/data-x9k2m5p8/main/images/img_1763136666954_Screenshot_4.jpg",
-      "galeri": [
-        "https://awsimages.detik.net.id/visual/2024/03/28/foto-kolase-harvey-moeis-helena-lim-dokkejagung_169.png?w=650",
-        "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2024/07/23/JKT_Pelimpahan-Tahap-Dua-Kasus-Timah-_MIFTAHUL-HAYAT10-716628266.jpeg"
-      ],
-      "kejahatan": "Korupsi",
-      "lokasi": "indoensia",
-      "status": "dipenjara",
-      "reward": "",
-      "kesimpulan": "korupsi 300T",
-      "links": [
-        "https://kalteng.antaranews.com/berita/710883/harvey-moeis-didakwa-rugikan-negara-sebesar-rp300-triliun-terkait-kasus-timah",
-        "https://news.detik.com/berita/d-7776452/sopan-jadi-hal-meringankan-yang-kini-hilang-di-putusan-harvey-moeis"
-      ],
-      "id": 1763136834303
-    }
-  ],
+  "criminals": [],
   "pending": []
 }
