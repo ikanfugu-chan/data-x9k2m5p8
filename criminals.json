@@ -1,6 +1,5 @@
 {
-  "criminals": [],
-  "pending": [
+  "criminals": [
     {
       "nama": "aceng",
       "foto": "https://raw.githubusercontent.com/ikanfugu-chan/data-x9k2m5p8/main/images/img_1763136666954_Screenshot_4.jpg",
@@ -17,8 +16,8 @@
         "https://kalteng.antaranews.com/berita/710883/harvey-moeis-didakwa-rugikan-negara-sebesar-rp300-triliun-terkait-kasus-timah",
         "https://news.detik.com/berita/d-7776452/sopan-jadi-hal-meringankan-yang-kini-hilang-di-putusan-harvey-moeis"
       ],
-      "id": 1763136834303,
-      "submittedAt": "2025-11-14T16:13:54.303Z"
+      "id": 1763136834303
     }
-  ]
+  ],
+  "pending": []
 }
