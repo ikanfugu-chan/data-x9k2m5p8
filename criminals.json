@@ -32,6 +32,23 @@
       ],
       "id": 1763126786021,
       "submittedAt": "2025-11-14T13:23:19.701Z"
+    },
+    {
+      "nama": "aceng",
+      "foto": "https://raw.githubusercontent.com/ikanfugu-chan/data-x9k2m5p8/main/images/img_1763126551660_Screenshot_4.jpg",
+      "galeri": [
+        "a"
+      ],
+      "kejahatan": "a",
+      "lokasi": "a",
+      "status": "mati",
+      "reward": "",
+      "kesimpulan": "a",
+      "links": [
+        "a"
+      ],
+      "id": 1763128564689,
+      "submittedAt": "2025-11-14T13:23:19.701Z"
     }
   ],
   "pending": [
@@ -49,7 +66,7 @@
       "links": [
         "a"
       ],
-      "id": 1763126786021,
+      "id": 1763128564689,
       "submittedAt": "2025-11-14T13:23:19.701Z"
     }
   ]
