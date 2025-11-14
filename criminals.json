@@ -1,19 +1,4 @@
 {
-  "criminals": [
-    {
-      "id": 1731600000003,
-      "nama": "Michael Johnson",
-      "foto": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
-      "galeri": [
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
-      ],
-      "kejahatan": "Pembunuhan Berencana",
-      "lokasi": "Bandung, Indonesia",
-      "status": "mati",
-      "reward": "",
-      "kesimpulan": "Pelaku telah meninggal dalam kecelakaan saat melarikan diri dari kejaran polisi. Kasus pembunuhan berencana terhadap 3 korban telah ditutup.",
-      "links": []
-    }
-  ],
+  "criminals": [],
   "pending": []
 }
