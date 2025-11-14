@@ -1,24 +1,6 @@
 {
   "criminals": [
     {
-      "id": 1731600000001,
-      "nama": "John Doe",
-      "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
-      "galeri": [
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400"
-      ],
-      "kejahatan": "Korupsi Dana Negara",
-      "lokasi": "Jakarta, Indonesia",
-      "status": "buron",
-      "reward": "Rp 500.000.000",
-      "kesimpulan": "Tersangka melakukan penggelapan dana negara sebesar 50 miliar rupiah. Kasus ini melibatkan beberapa pejabat tinggi dan masih dalam proses penyelidikan.",
-      "links": [
-        "https://example.com/news1",
-        "https://example.com/news2"
-      ]
-    },
-    {
       "id": 1731600000002,
       "nama": "Jane Smith",
       "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
