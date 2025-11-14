@@ -1,4 +1,21 @@
 {
-  "criminals": [],
+  "criminals": [
+    {
+      "nama": "Imam Syafii alias Supar",
+      "foto": "https://asset-2.tribunnews.com/medan/foto/bank/images/KIAI-SUPAR-TRENGGALEK-Imam-Syafii-alias-Supar-pimpinan-Pondok-Pesantren-membantah.jpg",
+      "galeri": [
+        "https://awsimages.detik.net.id/community/media/visual/2025/02/28/kiai-di-trenggalek-yang-hamili-santriwati-1740709818030_169.jpeg?w=1200"
+      ],
+      "kejahatan": "cabul",
+      "lokasi": "trenggalek",
+      "status": "dipenjara",
+      "reward": "",
+      "kesimpulan": "mati",
+      "links": [
+        "https://www.detik.com/jatim/hukum-dan-kriminal/d-7680520/sidang-perdana-kiai-trenggalek-hamili-santriwati-didakwa-5-pasal"
+      ],
+      "id": 1763125655231
+    }
+  ],
   "pending": []
 }
