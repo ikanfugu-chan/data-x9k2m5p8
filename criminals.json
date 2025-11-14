@@ -49,9 +49,7 @@
       ],
       "id": 1763128798067,
       "submittedAt": "2025-11-14T13:23:19.701Z"
-    }
-  ],
-  "pending": [
+    },
     {
       "nama": "aceng",
       "foto": "https://raw.githubusercontent.com/ikanfugu-chan/data-x9k2m5p8/main/images/img_1763126551660_Screenshot_4.jpg",
@@ -66,8 +64,8 @@
       "links": [
         "a"
       ],
-      "id": 1763128798067,
-      "submittedAt": "2025-11-14T13:23:19.701Z"
+      "id": 1763128798067
     }
-  ]
+  ],
+  "pending": []
 }
